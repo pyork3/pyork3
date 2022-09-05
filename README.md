@@ -2,7 +2,7 @@
 - I’m interested in race cars and learning about programming.
 - I’m currently learning full stack web development.
 - I’m looking to collaborate on projects for class.
-- 📫 How to reach me send me a message or email.
+- 📫 How to reach me: send a message or email.
 -  Cheers!
 
 <!---
